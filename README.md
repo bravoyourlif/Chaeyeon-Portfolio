@@ -56,7 +56,7 @@ _Capstone project at Yonsei University Media System Lab_
 Supervisor: Professor Tack Don Han / Role: Project leader (among three members)            
 🏅 Awarded 1st place award in Computer Science Exhibition          
 +	Developed an on-desk AR (Augmented Reality) simulator that recognizes a blueprint in real-time and calculates the evacuation way and time of the number of people a user indicated through placing tangible color blocks on the blueprint
-+	Combined Floyd-Warshall algorithm and Dijkstra algorithm to reduce operating time in wayfinding process 
++	Combined Floyd-Warshall algorithm and Dijkstra algorithm to reduce operating time in wayfinding process     
 [Github Link](https://github.com/bravoyourlif/PARES)
 
 ---------------------   
