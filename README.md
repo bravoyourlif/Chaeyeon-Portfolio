@@ -7,7 +7,7 @@ I am currently studying urban planning at UIUC. I have a background in computer 
 
 I am an active member of the Korean Youth Climate Change Network, BIGWAVE. I engage in the researcher network and participate in climate change related studies in the group. I am also working as a graduate team staff in Korean Student Association (KSA) at Urbana-Champaign, Illinois. 
 ***
-    
+
 Skills
 ======
 📎 Software skills
@@ -20,19 +20,22 @@ Ballet (2006-2008, 2015-Present), Band vocalist (Mar. 2015 – Feb. 2017)
     
 ✏ Education 
 ===============
-💻 Master of Urban Planning at University of Illinois at Urban-Champaign 
+💻 Master of Urban Planning 
+University of Illinois at Urban-Champaign 
 August 2020 - present   
-👩🏻‍🎓 Bachelor of Science in Computer Science and Engineering at Yonsei University, Seoul, Republic of Korea 
+👩🏻‍🎓 Bachelor of Science in Computer Science and Engineering 
+Yonsei University, Seoul, Republic of Korea 
 March 2015 - August 2020   
-👩🏻‍🎓 Bachelor of Science in Urban Planning and Engineering at Yonsei University, Seoul, Republic of Korea
+👩🏻‍🎓 Bachelor of Science in Urban Planning and Engineering 
+Yonsei University, Seoul, Republic of Korea
 March 2018 - August 2020
 ***
-
+    
 Research Experience
 ======================
 ### 📎 Analysis of the Subway Ridership Change in Seoul after the Outbreak of COVID-19
 June - August 2020
-_Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University_   
+_Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University_               
 🏅 Awarded by Seoul Institute for Excellency in Research Paper ($1,000)                                                        
 +	Categorized the reduce pattern of ridership demand in each station using open ridership data
 +	Used Python to process data, K-means clustering in SAS 
@@ -43,49 +46,54 @@ _Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University_
 + Collected disaster-related research papers' title and abstract through web scraping tool
 + Used Python to process data, implement LCA topic modeling analysis
 + Used Gephi to implement network analysis    
-      
+---------------------         
 
 👩🏻‍💻 Projects
 ==================
 ### 📎 Projection-based AR Evacuation Simulator (PARES) using Kinect for Windows V2 and Unity  
 March – June 2019
 _Capstone project at Yonsei University Media System Lab_ 
-Supervisor: Professor Tack Don Han / Role: Project leader (among three members)
-🏅 Awarded 
+Supervisor: Professor Tack Don Han / Role: Project leader (among three members)            
+🏅 Awarded 1st place award in Computer Science Exhibition          
 +	Developed an on-desk AR (Augmented Reality) simulator that recognizes a blueprint in real-time and calculates the evacuation way and time of the number of people a user indicated through placing tangible color blocks on the blueprint
 +	Combined Floyd-Warshall algorithm and Dijkstra algorithm to reduce operating time in wayfinding process 
     
-   
+---------------------   
 
 👩🏻‍💼 Working and Volunteering Experience
 ==================================================
-### 📎 Teaching Assistant (based on R) at Department of Urban and Regional Planning at UIUC 
+### 📎 Teaching Assistant (based on R) 
+Department of Urban and Regional Planning at UIUC             
 August 2020 - present
 +	Courses: Advanced Data Science for Planners, Data Science for Planners, 
 Urban Transportation Modeling 
 
-### 📎 Research Assistant Internship at Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University
+### 📎 Research Assistant Internship 
+Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University          
 January - October 2020
 +	Analyze the tendency of how research on disasters has been conducted through Topic Modeling and Network Analysis
 
-### 📎 Teaching Assistant (based on Python) at Yonsei University Liberal Education for Freshmen
+### 📎 Teaching Assistant (based on Python) 
+Yonsei University Liberal Education for Freshmen          
 January - June 2020
 +	Course: Computational Thinking and SW Programming
 
-### 📎 Volunteer Mentor for Unprivileged Children at ‘Inside-out Mentor Group’ at Gangseo I-will Center, Seoul, South Korea
+### 📎 Volunteer Mentor for Unprivileged Children 
+‘Inside-out Mentor Group’ at Gangseo I-will Center, Seoul, South Korea    
 May - November 2019
 +	Tutor of math, Korean literature, and basic programming
 
-### 📎 Tutor at Yonsei OSE (Open Smart Education) Center
-Tutor of Operating System course
+### 📎 Tutor of Operating System course
+Tutor at Yonsei OSE (Open Smart Education) Center    
 March - June 2019
 +	Taught and supported five undergraduate students in an OS course
 
-### 📎 Project Manager (among four members) at Start-up enterprise ‘7Pictures’ 
+### 📎 Project Manager (among four members) 
+Start-up enterprise ‘7Pictures’     
 Auguest 2016 - December 2017
 +	As a member of a start-up enterprise, ran an art field crowdfunding platform, conducted art projects, and planned visual art exhibitions
 
-    
+---------------------     
 
 AWARDS & SCHOLARSHIPS	
 ======================
