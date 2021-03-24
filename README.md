@@ -43,7 +43,7 @@ _Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University_
 ### 📎 A Comparative Analysis of Trends of Disaster Risk Researches using Topic Modeling & Network Analysis
 January - May 2020   
 _Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University_   
-👩 Presentation in Korean Society of Hazard Mitigation ([link] (https://www.kosham.or.kr/html/))      
+👩 Presentation in Korean Society of Hazard Mitigation ([link](https://www.kosham.or.kr/html/))      
 + Collected disaster-related research papers' title and abstract through web scraping tool
 + Used Python to process data, implement LCA topic modeling analysis
 + Used Gephi to implement network analysis    
