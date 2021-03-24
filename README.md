@@ -52,12 +52,21 @@ _Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University_
 ==================
 ### 📎 Projection-based AR Evacuation Simulator (PARES) using Kinect for Windows V2 and Unity  
 March – June 2019
-_Capstone project at Yonsei University Media System Lab_ 
+_Capstone project at Yonsei University Media System Lab_    
 Supervisor: Professor Tack Don Han / Role: Project leader (among three members)            
-🏅 Awarded 1st place award in Computer Science Exhibition          
+🏅 Awarded 1st place award in Computer Science Exhibition 2019         
 +	Developed an on-desk AR (Augmented Reality) simulator that recognizes a blueprint in real-time and calculates the evacuation way and time of the number of people a user indicated through placing tangible color blocks on the blueprint
 +	Combined Floyd-Warshall algorithm and Dijkstra algorithm to reduce operating time in wayfinding process     
 [Github Link](https://github.com/bravoyourlif/PARES)
+
+### 📎 Korean Language (Hangeul) Education AR Mobile APP, DictionARy  
+March – June 2020
+_Capstone project at Yonsei University Media System Lab_    
+Supervisor: Professor Tack Don Han / Role: Project leader (among three members)            
+🏅 Awarded 1st place award in Computer Science Exhibition 2020          
++	Developed a mobile AR (Augmented Reality) application for Korean language education.
++	Used Vuforia engine powered in Unity.      
+[Github Link](https://github.com/bravoyourlif/DictionARy)
 
 ---------------------   
 
@@ -91,7 +100,7 @@ March - June 2019
 
 ### 📎 Project Manager (among four members) 
 Start-up enterprise ‘7Pictures’     
-Auguest 2016 - December 2017
+August 2016 - December 2017
 +	As a member of a start-up enterprise, ran an art field crowdfunding platform, conducted art projects, and planned visual art exhibitions
 
 ---------------------     
