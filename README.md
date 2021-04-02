@@ -3,7 +3,7 @@ Email: ch55@illinois.edu
     
 Introduction 
 ==========================
-I am currently studying urban planning at UIUC. I have a background in computer science and engineering. My interest revolves in analyzing and solving convoluted urban issues through data science. I hope to contribute to building sustainable and equitable city through transdisciplinary studies in urban planning and data science. Apart from my academic interest, I love Korean indie music, ballet, coffee, and cooking then eating!  
+I am currently a first year master student at Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign (UIUC). My interest revolves in analyzing and solving convoluted urban issues through data science. I hope to contribute to building sustainable and equitable city through transdisciplinary studies in urban planning and data science. Apart from my academic interest, I love Korean indie music, ballet, coffee, and cooking then eating!  
 
 I am an active member of the Korean Youth Climate Change Network, BIGWAVE. I engage in the researcher network and participate in climate change related studies in the group. I am also working as a graduate team staff in Korean Student Association (KSA) at Urbana-Champaign, Illinois. 
 ***
@@ -13,7 +13,8 @@ Skills
 📎 Software skills
 Adobe Photoshop, Adobe Illustrator, GIS, Auto CAD, VLLO (video edit)   
 📎 Computer science skills
-R, C, C++, Python, HTML, CSS, PHP, Java, JavaScript, MySQL, Assembly Language   
+Most preferred: R, Python, C, C++     
+Have some experience: HTML, CSS, PHP, Java, JavaScript, MySQL, Assembly Language   
 📎 Miscellaneous skills 
 Ballet (2006-2008, 2015-Present), Band vocalist (Mar. 2015 – Feb. 2017)   
 ***
