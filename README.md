@@ -22,14 +22,14 @@ Ballet (2006-2008, 2015-Present), Band vocalist (Mar. 2015 – Feb. 2017)
     
 ✏ Education 
 ===============
-💻 Master of Urban Planning 
-University of Illinois at Urban-Champaign 
-August 2020 - present   
-👩🏻‍🎓 Bachelor of Science in Computer Science and Engineering 
-Yonsei University, Seoul, Republic of Korea 
+💻 Master of Urban Planning    
+University of Illinois at Urban-Champaign    
+August 2020 - present      
+👩🏻‍🎓 Bachelor of Science in Computer Science and Engineering    
+Yonsei University, Seoul, Republic of Korea    
 March 2015 - August 2020   
-👩🏻‍🎓 Bachelor of Science in Urban Planning and Engineering 
-Yonsei University, Seoul, Republic of Korea
+👩🏻‍🎓 Bachelor of Science in Urban Planning and Engineering     
+Yonsei University, Seoul, Republic of Korea    
 March 2018 - August 2020
 ***
     
