@@ -13,8 +13,8 @@ Skills
 📎 Software skills
 Adobe Photoshop, Adobe Illustrator, GIS, Auto CAD, VLLO (video edit)   
 📎 Computer science skills    
-+ Most preferred: R, Python, C, C++     
-+ Have some experience: HTML, CSS, PHP, Java, JavaScript, MySQL, Assembly Language   
++ Most preferred: R, Python, C, C++, HTML, CSS     
++ Have some experience: PHP, Java, JavaScript, MySQL, Assembly Language, C#   
 
 📎 Miscellaneous skills 
 Ballet (2006-2008, 2015-Present), Band vocalist (Mar. 2015 – Feb. 2017)   
