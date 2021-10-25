@@ -3,8 +3,9 @@ Email: ch55@illinois.edu
     
 Introduction 
 ==========================
-I am currently a first year master student at Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign (UIUC). My interest revolves in analyzing and solving convoluted urban issues through data science. I hope to contribute to building sustainable and equitable city through transdisciplinary studies in urban planning and data science. Apart from my academic interest, I love Korean indie music, ballet, coffee, and cooking then eating!  
+I am currently a second year master student at Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign (UIUC). My interest revolves in analyzing and solving convoluted urban issues through computer science. I hope to contribute to building a sustainable, resilient, equitable and exciting(!) city through urban studies and technology. I am working with the CyberGIS center, which is a research center in the GGIS (Geography and Geographical Information Science) department at UIUC. My main role is to develop deep learning models to forecast pandemic risk using mobility data.    
 
+Apart from my academic interest, I love Korean indie music, ballet, tennis, coffee, and cooking then eating!  
 I am an active member of the Korean Youth Climate Change Network, BIGWAVE. I engage in the researcher network and participate in climate change related studies in the group. I am also working as a graduate team staff in Korean Student Association (KSA) at Urbana-Champaign, Illinois. 
 ***
 
@@ -13,11 +14,11 @@ Skills
 📎 Software skills
 Adobe Photoshop, Adobe Illustrator, GIS, Auto CAD, VLLO (video edit)   
 📎 Computer science skills    
-+ Most preferred: R, Python, C, C++, HTML, CSS     
-+ Have some experience: PHP, Java, JavaScript, MySQL, Assembly Language, C#   
++ Most preferred (in order): Python, R, C, Unity C#, C++, HTML, CSS     
++ Have some experience: PHP, Java, JavaScript, MySQL, Assembly Language
 
 📎 Miscellaneous skills 
-Ballet (2006-2008, 2015-Present), Band vocalist (Mar. 2015 – Feb. 2017)   
+Ballet (2006-2008, 2015-Present), Tennis, Band vocalist (Mar. 2015 – Feb. 2017)   
 ***
     
 ✏ Education 
@@ -25,9 +26,11 @@ Ballet (2006-2008, 2015-Present), Band vocalist (Mar. 2015 – Feb. 2017)
 💻 Master of Urban Planning    
 University of Illinois at Urban-Champaign    
 August 2020 - present      
+
 👩🏻‍🎓 Bachelor of Science in Computer Science and Engineering    
 Yonsei University, Seoul, Republic of Korea    
 March 2015 - August 2020   
+
 👩🏻‍🎓 Bachelor of Science in Urban Planning and Engineering     
 Yonsei University, Seoul, Republic of Korea    
 March 2018 - August 2020
@@ -35,6 +38,13 @@ March 2018 - August 2020
     
 Research Experience
 ======================
+### 📎 A CyberGIS-enabled Pandemic Warning System Using Social Media Data   
+Sep. 2021 – present   
+_CyberGIS Center for Advanced Digital and Spatial Studies, University of Illinois	   
+Advisor: Professor Shaowen Wang, Assistant Professor Su-yeon Han                      
++	Currently developing and comparing ARIMA, LSTM, Facebook Prophet models to predict regional COVID-19 risk using Python and Jupyter Notebook
++	Establishing a COVID-19 risk assessment indicator using twitter mobility data 
+
 ### 📎 Analysis of the Subway Ridership Change in Seoul after the Outbreak of COVID-19
 June - August 2020
 _Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University_               
@@ -65,7 +75,7 @@ Supervisor: Professor Tack Don Han / Role: Project leader (among three members)
 ### 📎 Korean Language (Hangeul) Education AR Mobile APP, DictionARy  
 March – June 2020
 _Capstone project at Yonsei University Media System Lab_    
-Supervisor: Professor Tack Don Han / Role: Project leader (among three members)            
+Supervisor: Professor Tack Don Han             
 🏅 Awarded 1st place award in Computer Science Exhibition 2020          
 +	Developed a mobile AR (Augmented Reality) application for Korean language education.
 +	Used Vuforia engine powered in Unity.      
@@ -75,36 +85,54 @@ Supervisor: Professor Tack Don Han / Role: Project leader (among three members)
 
 👩🏻‍💼 Working and Volunteering Experience
 ==================================================
-### 📎 Teaching Assistant (based on R) 
-Department of Urban and Regional Planning at UIUC             
+### 📎 CyberGIS Center for Advanced Digital and Spatial Studies, University of Illinois    
+Hourly Research Position   
+Sep. 2021 – present
++	Advisor: Professor Shaowen Wang
++	Developing time series forecasting models using Python and Jupyter Notebook	
+
+### 📎 City of Urbana & Department of Urban and Regional Planning at University of Illinois    
+Capstone Project & Teaching Assistant   
+Aug. 2021 – present
++	Advisor: Assistant Professor Dustin Allred, AICP
++	Managing the PaRIT (Planning and Regulation Information Tool) development task	
+
+### 📎 Department of Urban and Regional Planning at UIUC   
+Teaching Assistant (based on R)            
 August 2020 - present
 +	Courses: Advanced Data Science for Planners, Data Science for Planners, 
 Urban Transportation Modeling 
 
-### 📎 Research Assistant Internship 
-Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University          
+### 📎 Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University   
+Research Assistant Internship        
 January - October 2020
 +	Analyze the tendency of how research on disasters has been conducted through Topic Modeling and Network Analysis
 
-### 📎 Teaching Assistant (based on Python) 
-Yonsei University Liberal Education for Freshmen          
+### 📎 Yonsei University Liberal Education for Freshmen   
+Teaching Assistant (based on Python)           
 January - June 2020
 +	Course: Computational Thinking and SW Programming
 
-### 📎 Volunteer Mentor for Unprivileged Children 
-‘Inside-out Mentor Group’ at Gangseo I-will Center, Seoul, South Korea    
+### 📎 ‘Inside-out Mentor Group’ at Gangseo I-will Center, Seoul, South Korea      
+Volunteer Mentor for Unprivileged Children   
 May - November 2019
 +	Tutor of math, Korean literature, and basic programming
 
-### 📎 Tutor of Operating System course
-Tutor at Yonsei OSE (Open Smart Education) Center    
+### 📎 Yonsei OSE (Open Smart Education) Center    
+Tutor of Operating System course  
 March - June 2019
 +	Taught and supported five undergraduate students in an OS course
 
-### 📎 Project Manager (among four members) 
-Start-up enterprise ‘7Pictures’     
+### 📎 Start-up enterprise ‘7Pictures’   
+Project Manager (among four members)     
 August 2016 - December 2017
 +	As a member of a start-up enterprise, ran an art field crowdfunding platform, conducted art projects, and planned visual art exhibitions
+---------------------     
+
+PUBLICATIONS	
+======================   
+### Journal of the Korean Society of Hazard Mitigation [KOSHAM]   
+“A Comparative Analysis of Trends of Disaster Risk Research using Topic Modeling & Network Analysis” Chaeyeon Han, Woosik Kim, D.K. Yoon, Journal of the Korean Society of Hazard Mitigation [KOSHAM], Accepted at Oct. 2021.
 
 ---------------------     
 
